@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+
+              <field name="adresseid" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_ADRESSEID"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_ADRESSEID" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="anrede" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_ANREDE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_ANREDE" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="firma" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_FIRMA"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_FIRMA" 
+                
+                
+                 /> 
+
+       <field name="vorname" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_VORNAME"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_VORNAME" 
+                
+                
+                 /> 
+
+       <field name="nachname" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_NACHNAME"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_NACHNAME" 
+                
+                
+                 /> 
+
+       <field name="strasse" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_STRASSE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_STRASSE" 
+                
+                
+                 /> 
+
+       <field name="nr" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_NR"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_NR" 
+                 default="0" 
+                
+                 /> 
+
+       <field name="land" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_LAND"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_LAND" 
+                
+                
+                 /> 
+
+       <field name="plz" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_PLZ"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_PLZ" 
+                 default="0" 
+                
+                 /> 
+
+       <field name="ort" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_ORT"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_ORT" 
+                
+                
+                 /> 
+
+       <field name="tel" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_TEL"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_TEL" 
+                
+                
+                 /> 
+
+       <field name="fax" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_FAX"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_FAX" 
+                
+                
+                 /> 
+
+       <field name="email" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_EMAIL"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_EMAIL" 
+                
+                
+                 /> 
+
+       <field name="mobil" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_MOBIL"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_MOBIL" 
+                
+                
+                 /> 
+
+       <field name="auftragid" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_AUFTRAGID"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_AUFTRAGID" 
+         default="-1" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="kategorieid" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_KATEGORIEID"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_KATEGORIEID" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="geb" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_GEB"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_GEB" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="gebrem" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_GEBREM"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_GEBREM" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="gebremmail" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_GEBREMMAIL"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_GEBREMMAIL" 
+                
+                
+                 /> 
+
+       <field name="type" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_TYPE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_TYPE" 
+                 default="default" 
+                
+                 /> 
+
+       <field name="bemerkung" type="textarea"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_BEMERKUNG"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_BEMERKUNG" 
+                
+                
+                 /> 
+
+       <field name="adressespracheid" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_ADRESSESPRACHEID"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_ADRESSESPRACHEID" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="homepage" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_HOMEPAGE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_HOMEPAGE" 
+                
+                
+                 /> 
+
+       <field name="vsgkundentyp" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_VSGKUNDENTYP"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_VSGKUNDENTYP" 
+                
+                
+                 /> 
+
+       <field name="exporttoldap" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_EXPORTTOLDAP"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_EXPORTTOLDAP" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="zusatz1" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_ZUSATZ1"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_ZUSATZ1" 
+                
+                
+                 /> 
+
+       <field name="position" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_POSITION"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_POSITION" 
+                
+                
+                 /> 
+
+       <field name="lastchange" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_LASTCHANGE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_LASTCHANGE" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="bezirk" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_BEZIRK"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_BEZIRK" 
+                
+                
+                 /> 
+
+       <field name="emailinvalid" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_EMAILINVALID"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_EMAILINVALID" 
+        
+        
+        
+        filter="safehtml" /> 
+
+       <field name="titelprefix" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_TITELPREFIX"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_TITELPREFIX" 
+                
+                
+                 /> 
+
+       <field name="titelsuffix" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_TITELSUFFIX"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_TITELSUFFIX" 
+                
+                
+                 /> 
+
+       <field name="abteilung" type="text"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_ABTEILUNG"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_ABTEILUNG" 
+                
+                
+                 /> 
+
+       <field name="kundennummer" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_KUNDENNUMMER"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_KUNDENNUMMER" 
+         default="0" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="as_praesentation" type="textarea"
+                
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_AS_PRAESENTATION"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_AS_PRAESENTATION" 
+                
+                
+                 /> 
+
+       <field name="breite" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_BREITE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_BREITE" 
+         default="0.000000" 
+        
+        
+        filter="safehtml" /> 
+
+       <field name="laenge" type="text" size="40" class="inputbox"
+        
+            label="COM_FIRMEN_FORM_LBL_FIRMEN_LAENGE"
+            description="COM_FIRMEN_FORM_DESC_FIRMEN_LAENGE" 
+         default="0.000000" 
+        
+        
+        filter="safehtml" />
+
+	</fieldset>
+
+</form>

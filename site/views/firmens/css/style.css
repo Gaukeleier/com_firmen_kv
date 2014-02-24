@@ -1,0 +1,61 @@
+.firmen + div  {
+       clear:both;       
+       padding-top: 20px;       
+}
+.firmen_list {
+    margin:0;    
+}
+.firmen_list li {
+    list-style-type: none;
+    float: left;
+    padding-right:10px;
+}
+.firmen_list li:after {
+    content:"-";
+}
+#map {
+	width:65%;
+	height:500px;
+	float:left;
+}
+#map_wrapper {
+	border: 10px solid #555;
+	padding: inherit;
+	height: 500px;
+	border-radius: 5px;
+}
+#map img {
+	max-width: inherit;
+}
+#results_table {
+    width: 35%;
+    float: left;
+    height: 500px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    margin-bottom: 50px;
+    padding: inherit;
+}
+.firmen-item .col1 {
+    font-size: 12px;
+    vertical-align:top;
+    margin:3px;
+    background:#fff;
+    padding: 5px;border-bottom:solid #ddd 15px;
+}
+.firmen-item .col1:hover {
+    background:#222;
+    color:#fff;
+}
+div.firmen-item {
+    background:#eee;  
+}
+.firmen_opt_title {
+	margin-bottom:5px;}
+
+#map_cat, #bes_umkreissuche {
+	width: 130px;
+}
+#ort {
+	width: 150px;
+}
